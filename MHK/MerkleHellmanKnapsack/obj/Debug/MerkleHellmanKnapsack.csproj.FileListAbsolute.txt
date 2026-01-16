@@ -1,0 +1,7 @@
+E:\coding stuff\temecripto\MerkleHellmanKnapsack\bin\Debug\MerkleHellmanKnapsack.exe.config
+E:\coding stuff\temecripto\MerkleHellmanKnapsack\bin\Debug\MerkleHellmanKnapsack.exe
+E:\coding stuff\temecripto\MerkleHellmanKnapsack\bin\Debug\MerkleHellmanKnapsack.pdb
+E:\coding stuff\temecripto\MerkleHellmanKnapsack\obj\Debug\MerkleHellmanKnapsack.csproj.AssemblyReference.cache
+E:\coding stuff\temecripto\MerkleHellmanKnapsack\obj\Debug\MerkleHellmanKnapsack.csproj.CoreCompileInputs.cache
+E:\coding stuff\temecripto\MerkleHellmanKnapsack\obj\Debug\MerkleHellmanKnapsack.exe
+E:\coding stuff\temecripto\MerkleHellmanKnapsack\obj\Debug\MerkleHellmanKnapsack.pdb
