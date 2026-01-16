@@ -1,0 +1,50 @@
+﻿<Window x:Class="CryptoApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Criptare Simetrica - .NET" Height="450" Width="650" ResizeMode="CanMinimize">
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="120"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Input File:" VerticalAlignment="Center" Grid.Row="0"/>
+        <TextBox Name="txtFile" Grid.Row="0" Grid.Column="1" Margin="5" IsReadOnly="True"/>
+        <Button Name="btnBrowse" Content="Browse" Grid.Row="0" Grid.Column="2" Margin="5" Click="btnBrowse_Click"/>
+
+        <TextBlock Text="Algoritm:" VerticalAlignment="Center" Grid.Row="1"/>
+        <ComboBox Name="cmbAlgo" Grid.Row="1" Grid.Column="1" Margin="5" SelectionChanged="OnSettingsChanged"/>
+
+        <TextBlock Text="Mod de operare:" VerticalAlignment="Center" Grid.Row="2"/>
+        <ComboBox Name="cmbMode" Grid.Row="2" Grid.Column="1" Margin="5"/>
+
+        <TextBlock Text="Padding:" VerticalAlignment="Center" Grid.Row="3"/>
+        <ComboBox Name="cmbPadding" Grid.Row="3" Grid.Column="1" Margin="5"/>
+
+        <TextBlock Text="IV (Base64):" VerticalAlignment="Center" Grid.Row="4"/>
+        <TextBox Name="txtIV" Grid.Row="4" Grid.Column="1" Margin="5"/>
+        <Button Name="btnGenIV" Content="Generate IV" Grid.Row="4" Grid.Column="2" Margin="5" Click="btnGenIV_Click"/>
+
+        <TextBlock Text="Key (Base64):" VerticalAlignment="Center" Grid.Row="5"/>
+        <TextBox Name="txtKey" Grid.Row="5" Grid.Column="1" Margin="5"/>
+        <Button Name="btnGenKey" Content="Generate Key" Grid.Row="5" Grid.Column="2" Margin="5" Click="btnGenKey_Click"/>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="6" Grid.Column="1" Margin="0,20,0,0">
+            <Button Name="btnEncrypt" Content="ENCRYPT" Width="100" Height="30" Margin="0,0,20,0" Click="btnAction_Click"/>
+            <Button Name="btnDecrypt" Content="DECRYPT" Width="100" Height="30" Click="btnAction_Click"/>
+        </StackPanel>
+
+        <TextBlock Name="lblStatus" Grid.Row="7" Grid.ColumnSpan="3" VerticalAlignment="Bottom" Foreground="Blue"/>
+    </Grid>
+</Window>

@@ -1,0 +1,7 @@
+E:\coding stuff\temecripto\Cifru+N\bin\Debug\Cifru+N.exe.config
+E:\coding stuff\temecripto\Cifru+N\bin\Debug\Cifru+N.exe
+E:\coding stuff\temecripto\Cifru+N\bin\Debug\Cifru+N.pdb
+E:\coding stuff\temecripto\Cifru+N\obj\Debug\Cifru+N.csproj.AssemblyReference.cache
+E:\coding stuff\temecripto\Cifru+N\obj\Debug\Cifru+N.csproj.CoreCompileInputs.cache
+E:\coding stuff\temecripto\Cifru+N\obj\Debug\Cifru+N.exe
+E:\coding stuff\temecripto\Cifru+N\obj\Debug\Cifru+N.pdb

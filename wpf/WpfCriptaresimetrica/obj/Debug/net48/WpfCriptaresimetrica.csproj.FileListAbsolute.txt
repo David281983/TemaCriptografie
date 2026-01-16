@@ -1,0 +1,15 @@
+E:\coding stuff\temecripto\WpfCriptaresimetrica\bin\Debug\net48\WpfCriptaresimetrica.exe.config
+E:\coding stuff\temecripto\WpfCriptaresimetrica\bin\Debug\net48\WpfCriptaresimetrica.exe
+E:\coding stuff\temecripto\WpfCriptaresimetrica\bin\Debug\net48\WpfCriptaresimetrica.pdb
+E:\coding stuff\temecripto\WpfCriptaresimetrica\obj\Debug\net48\WpfCriptaresimetrica.csproj.AssemblyReference.cache
+E:\coding stuff\temecripto\WpfCriptaresimetrica\obj\Debug\net48\MainWindow.baml
+E:\coding stuff\temecripto\WpfCriptaresimetrica\obj\Debug\net48\MainWindow.g.cs
+E:\coding stuff\temecripto\WpfCriptaresimetrica\obj\Debug\net48\App.g.cs
+E:\coding stuff\temecripto\WpfCriptaresimetrica\obj\Debug\net48\WpfCriptaresimetrica_MarkupCompile.cache
+E:\coding stuff\temecripto\WpfCriptaresimetrica\obj\Debug\net48\WpfCriptaresimetrica.g.resources
+E:\coding stuff\temecripto\WpfCriptaresimetrica\obj\Debug\net48\WpfCriptaresimetrica.GeneratedMSBuildEditorConfig.editorconfig
+E:\coding stuff\temecripto\WpfCriptaresimetrica\obj\Debug\net48\WpfCriptaresimetrica.AssemblyInfoInputs.cache
+E:\coding stuff\temecripto\WpfCriptaresimetrica\obj\Debug\net48\WpfCriptaresimetrica.AssemblyInfo.cs
+E:\coding stuff\temecripto\WpfCriptaresimetrica\obj\Debug\net48\WpfCriptaresimetrica.csproj.CoreCompileInputs.cache
+E:\coding stuff\temecripto\WpfCriptaresimetrica\obj\Debug\net48\WpfCriptaresimetrica.exe
+E:\coding stuff\temecripto\WpfCriptaresimetrica\obj\Debug\net48\WpfCriptaresimetrica.pdb

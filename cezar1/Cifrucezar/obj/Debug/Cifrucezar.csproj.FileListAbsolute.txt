@@ -1,0 +1,7 @@
+E:\coding stuff\temecripto\Cifrucezar\bin\Debug\Cifrucezar.exe.config
+E:\coding stuff\temecripto\Cifrucezar\bin\Debug\Cifrucezar.exe
+E:\coding stuff\temecripto\Cifrucezar\bin\Debug\Cifrucezar.pdb
+E:\coding stuff\temecripto\Cifrucezar\obj\Debug\Cifrucezar.csproj.AssemblyReference.cache
+E:\coding stuff\temecripto\Cifrucezar\obj\Debug\Cifrucezar.csproj.CoreCompileInputs.cache
+E:\coding stuff\temecripto\Cifrucezar\obj\Debug\Cifrucezar.exe
+E:\coding stuff\temecripto\Cifrucezar\obj\Debug\Cifrucezar.pdb

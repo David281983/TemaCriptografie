@@ -1,0 +1,7 @@
+E:\coding stuff\temecripto\Substitutie monoalfabetica\bin\Debug\Substitutie monoalfabetica.exe.config
+E:\coding stuff\temecripto\Substitutie monoalfabetica\bin\Debug\Substitutie monoalfabetica.exe
+E:\coding stuff\temecripto\Substitutie monoalfabetica\bin\Debug\Substitutie monoalfabetica.pdb
+E:\coding stuff\temecripto\Substitutie monoalfabetica\obj\Debug\Substitutie monoalfabetica.csproj.AssemblyReference.cache
+E:\coding stuff\temecripto\Substitutie monoalfabetica\obj\Debug\Substitutie monoalfabetica.csproj.CoreCompileInputs.cache
+E:\coding stuff\temecripto\Substitutie monoalfabetica\obj\Debug\Substitutie monoalfabetica.exe
+E:\coding stuff\temecripto\Substitutie monoalfabetica\obj\Debug\Substitutie monoalfabetica.pdb

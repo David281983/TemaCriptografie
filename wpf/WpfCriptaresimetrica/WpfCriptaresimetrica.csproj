@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net48</TargetFramework>
+
+		<UseWPF>true</UseWPF>
+
+		<Nullable>disable</Nullable>
+		<ImplicitUsings>disable</ImplicitUsings>
+
+		<GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+	</PropertyGroup>
+
+</Project>

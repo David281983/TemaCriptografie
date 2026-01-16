@@ -1,0 +1,7 @@
+E:\coding stuff\temecripto\PlayFair\bin\Debug\PlayFair.exe.config
+E:\coding stuff\temecripto\PlayFair\bin\Debug\PlayFair.exe
+E:\coding stuff\temecripto\PlayFair\bin\Debug\PlayFair.pdb
+E:\coding stuff\temecripto\PlayFair\obj\Debug\PlayFair.csproj.AssemblyReference.cache
+E:\coding stuff\temecripto\PlayFair\obj\Debug\PlayFair.csproj.CoreCompileInputs.cache
+E:\coding stuff\temecripto\PlayFair\obj\Debug\PlayFair.exe
+E:\coding stuff\temecripto\PlayFair\obj\Debug\PlayFair.pdb
